@@ -1,0 +1,27 @@
+{
+  "id": "asking_names",
+  "title": "Asking Names",
+  "lesson": "Asking Names",
+  "slides": [
+    {
+      "type": "title",
+      "text": "Pergunta e Resposta"
+    },
+    {
+      "type": "explanation",
+      "text": "Vamos aprender como perguntar o nome de alguém e como responder."
+    },
+    {
+      "type": "examples",
+      "sentences": [
+        "What is your name?",
+        "My name is John.",
+        "Nice to meet you."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Respondemos com \"Nice to meet you too\" quando alguém diz \"Nice to meet you\"."
+    }
+  ]
+}

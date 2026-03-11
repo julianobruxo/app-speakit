@@ -1,0 +1,31 @@
+{
+  "id": "to_be",
+  "title": "Verb To Be",
+  "lesson": "Verb To Be",
+  "slides": [
+    {
+      "type": "title",
+      "text": "Verbo \"To Be\""
+    },
+    {
+      "type": "explanation",
+      "text": "O verbo to be significa ser ou estar.\nEle é usado para dizer quem você é ou o que você é."
+    },
+    {
+      "type": "explanation",
+      "text": "Usamos to be para falar:\n\n• nosso nome\n• nossa profissão\n• de onde somos"
+    },
+    {
+      "type": "examples",
+      "sentences": [
+        "I am Ana.",
+        "I am a student.",
+        "She is a teacher."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Use am com I.\n\nExemplo:\nI am Maria."
+    }
+  ]
+}

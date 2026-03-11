@@ -1,0 +1,27 @@
+{
+  "id": "greetings",
+  "title": "Greetings",
+  "lesson": "Greetings",
+  "slides": [
+    {
+      "type": "title",
+      "text": "Greetings"
+    },
+    {
+      "type": "explanation",
+      "text": "Usamos greetings para cumprimentar alguém."
+    },
+    {
+      "type": "examples",
+      "sentences": [
+        "Hello",
+        "Hi",
+        "Good morning"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Hello é um pouco mais formal que Hi."
+    }
+  ]
+}
